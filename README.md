@@ -1,4 +1,4 @@
 # hello-word
 
 
-This is a basic testing using github
+This is a basic testing using github.
